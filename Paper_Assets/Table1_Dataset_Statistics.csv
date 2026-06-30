@@ -1,0 +1,16 @@
+type,feature,itemids,label,obs,patients,stay_cov_overall_pct,stay_cov_24h_pct
+Vital,Heart Rate,[220045],Heart Rate,13913,100,100.0,100.0
+Vital,Respiratory Rate,[220210],Respiratory Rate,13913,100,100.0,100.0
+Vital,SpO2,[220277],O2 saturation pulseoxymetry,13540,100,100.0,100.0
+Vital,Systolic BP,"[220179, 220050]",Non Invasive Blood Pressure systolic / Arterial Blood Pressure systolic,13872,100,99.28571428571429,99.28571428571429
+Vital,Diastolic BP,"[220180, 220051]",Non Invasive Blood Pressure diastolic / Arterial Blood Pressure diastolic,13873,100,99.28571428571429,99.28571428571429
+Vital,Mean Arterial Pressure,"[220052, 220181, 224326]",Arterial Blood Pressure mean / Non Invasive Blood Pressure mean,13902,100,99.28571428571429,99.28571428571429
+Vital,Temperature,"[223762, 223761]",Temperature Fahrenheit / Temperature Celsius,3770,100,99.28571428571429,96.42857142857143
+Lab,WBC,"[51301, 51300]",WBC Count / White Blood Cells,2776,100,95.0,97.14285714285714
+Lab,Hemoglobin,[51222],Hemoglobin,2787,100,95.0,97.14285714285714
+Lab,Platelets,[51265],Platelet Count,2827,100,95.0,97.14285714285714
+Lab,Creatinine,[50912],Creatinine,3003,100,97.85714285714285,98.57142857142858
+Lab,Glucose,"[50931, 50809]",Glucose / Glucose,2973,100,98.57142857142858,98.57142857142858
+Lab,Sodium,"[50983, 50824]","Sodium, Whole Blood / Sodium",3148,100,98.57142857142858,99.28571428571429
+Lab,Potassium,"[50971, 50822]","Potassium, Whole Blood / Potassium",3324,100,99.28571428571429,99.28571428571429
+Lab,BUN,"[51006, 52647]",Urea Nitrogen / Urea Nitrogen,2974,100,97.85714285714285,98.57142857142858

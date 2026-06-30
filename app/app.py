@@ -595,7 +595,7 @@ if system_ready:
             st.markdown("<h2 style='margin-top:0;'>🗺️ CDSS Pipeline Architecture Horizonal Workflow</h2>", unsafe_allow_html=True)
             st.markdown("---")
             
-            arch_path = os.path.join(config.BASE_DIR, "figures", "system_architecture_diagram.png")
+            arch_path = os.path.join(config.BASE_DIR, "figures", "publication" "ieee_final_system_architecture.png")
             if os.path.exists(arch_path):
                 st.image(arch_path, caption="CDSS System Architecture flowchart (Ingestion to Streamlit)")
             else:
